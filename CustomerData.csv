@@ -1,21 +1,22 @@
-UserId,CustomerSince,CustomerSinceTier,Location,ShoeSize,ShirtSize,PantSize,AverageCategory,NumberofCartOnlyEvents,InStoreTransactions,InStoreVisits,InStoreConversion,InStoreConversionTier,OnlineTransactions,OnlineVisits,OnlineConversion,OnlineConversionTier,DiscountsUsed,DiscountTier,AverageSpentPerTransaction,AverageSpentTier,TotalSpent
-1,4,3,1,7.5,S,S,Pants,2,3,9,0.3333333333,4,10,25,0.4,4,2,3,30.33,4,390
-2,2,2,2,8,XS,XS,Shirts,2,1,3,0.3333333333,4,6,15,0.4,4,1,2,40.04,4,280
-3,5,4,3,9,M,L,Pants,4,15,30,0.5,5,15,23,0.65217391,5,3,4,35.15,4,1050
-4,7,4,4,12,S,M,Shoes,1,25,50,0.5,5,0,3,0,0,10,5,60.03,5,1500
-5,9,4,5,13,M,L,Men's Cold Weather Golf Tops,1,30,45,0.6666666667,5,4,7,0.57142857,5,6,5,45.13,5,1530
-6,2,2,6,8.5,L,XL,Men's Cold Weather Golf Pants,1,5,15,0.3333333333,3,3,8,0.375,3,2,3,55.54,5,444
-7,3,3,7,7,XS,S,Ladie's Golf Skorts & Dresses,2,7,14,0.5,5,2,8,0.25,2,1,2,15,2,135
-8,3,3,8,13,S,M,Shoes,1,8,23,0.34782609,3,2,2,1,5,0,1,25,3,250
-9,10,5,9,14,M,M,Accessories,4,40,90,0.44444444,4,9,18,0.5,5,10,5,90.23,5,"4,410"
-10,6,4,10,9,S,M,Accessories,4,20,60,0.3333333333,3,8,25,0.32,3,5,5,70.24,5,1960
-11,10,5,1,8,M,M,Pants,3,60,200,0.3,4,40,165,0.2424242424,3,3,4,26.95,3,2500
-12,5,4,2,9.5,M,L,Shirts,1,5,20,0.25,3,10,30,0.3333333333,4,0,1,60.01,5,870
-13,2,3,3,9,L,L,Accessories,0,3,15,0.2,2,0,2,0,0,0,1,22.98,3,71
-14,2,3,4,10,S,M,Shoes,0,15,25,0.6,5,3,5,0.6,5,0,1,90.04,5,1575
-15,1,1,5,8,S,M,Pants,1,1,3,0.3333333333,4,7,20,0.35,4,2,3,40.35,4,322
-16,5,4,6,12,M,M,Hats,0,6,10,0.6,5,2,2,1,5,2,3,20.08,3,150
-17,3,3,7,12,S,M,Shirts,3,80,108,0.7407407407,5,10,30,0.3333333333,4,0,1,70.68,5,6382
-18,4,3,8,11.5,M,L,Hats,0,3,24,0.125,2,2,10,0.2,2,0,1,40.29,3,190
-19,2,3,9,7,S,L,Shirts,2,20,30,0.6666666667,5,5,12,0.4166666667,5,0,1,28.11,3,679
-20,1,1,10,8,M,L,Accessories,1,5,5,1,5,8,40,0.2,3,0,1,70.4,5,1023
+UserId,CustomerName,CustomerSince,CustomerSinceTier,Location,ShoeSize,ShirtSize,PantSize,AverageCategory,NumberofCartOnlyEvents,InStoreTransactions,InStoreVisits,InStoreConversion,InStoreConversionTier,OnlineTransactions,OnlineVisits,OnlineConversion,OnlineConversionTier,DiscountsUsed,DiscountTier,AverageSpentPerTransaction,AverageSpentTier,TotalSpent
+1,customer1,4,3,1,7.5,S,S,Shirts,2,3,9,0.333333333,4,10,25,0.4,4,2,3,30.33,4,390
+2,customer2,2,2,2,8,XS,XS,Shirts,2,1,3,0.333333333,4,6,15,0.4,4,1,2,40.04,4,280
+3,customer3,5,4,3,9,M,L,Pants,4,15,30,0.5,5,15,23,0.65217391,5,3,4,35.15,4,1050
+4,customer4,7,4,4,12,S,M,Accessories,1,25,50,0.5,5,0,3,0,0,10,5,60.03,5,1500
+5,customer5,9,4,5,13,M,L,Shirts,1,30,45,0.666666667,5,4,7,0.57142857,5,6,5,45.13,5,1530
+6,customer6,2,2,6,8.5,L,XL,Shirts ,1,5,15,0.333333333,3,3,8,0.375,3,2,3,55.54,5,444
+7,customer7,3,3,7,7,XS,S,Shirts,2,7,14,0.5,5,2,8,0.25,2,1,2,15,2,135
+8,customer8,3,3,8,13,S,M,Shoes,1,8,23,0.34782609,3,2,2,1,5,0,1,25,3,250
+9,customer9,10,5,9,14,M,M,Shirts,4,40,90,0.44444444,4,9,18,0.5,5,10,5,90.23,5,"4,410"
+10,customer10,6,4,10,9,S,M,Accessories,4,20,60,0.333333333,3,8,25,0.32,3,5,5,70.24,5,1960
+11,customer11,10,5,1,8,M,M,Pants,3,60,200,0.3,4,40,165,0.242424242,3,3,4,26.95,3,2500
+12,customer12,5,4,2,9.5,M,L,Shirts,1,5,20,0.25,3,10,30,0.333333333,4,0,1,60.01,5,870
+13,customer13,2,3,3,9,L,L,Accessories,0,3,15,0.2,2,0,2,0,0,0,1,22.98,3,71
+14,customer14,2,3,4,10,S,M,Shoes,0,15,25,0.6,5,3,5,0.6,5,0,1,90.04,5,1575
+15,customer15,1,1,5,8,S,M,Pants,1,1,3,0.333333333,4,7,20,0.35,4,2,3,40.35,4,322
+16,customer16,5,4,6,12,M,M,Accessories,0,6,10,0.6,5,2,2,1,5,2,3,20.08,3,150
+17,customer17,3,3,7,12,S,M,Shirts,3,80,108,0.740740741,5,10,30,0.333333333,4,0,1,70.68,5,6382
+18,customer18,4,3,8,11.5,M,L,Accessories,0,3,24,0.125,2,2,10,0.2,2,0,1,40.29,3,190
+19,customer19,2,3,9,7,S,L,Shirts,2,20,30,0.666666667,5,5,12,0.416666667,5,0,1,28.11,3,679
+20,customer20,1,1,10,8,M,L,Accessories,1,5,5,1,5,8,40,0.2,3,0,1,70.4,5,1023
+Averages:,,,3.2,,9.8,,,,,,,,4.05,,,,3.55,,2.6,,4.05,
